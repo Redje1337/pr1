@@ -1,0 +1,14 @@
+C:\Users\sevae\source\repos\aaye\aaye\bin\Debug\net6.0\aaye.exe
+C:\Users\sevae\source\repos\aaye\aaye\bin\Debug\net6.0\aaye.deps.json
+C:\Users\sevae\source\repos\aaye\aaye\bin\Debug\net6.0\aaye.runtimeconfig.json
+C:\Users\sevae\source\repos\aaye\aaye\bin\Debug\net6.0\aaye.dll
+C:\Users\sevae\source\repos\aaye\aaye\bin\Debug\net6.0\aaye.pdb
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\aaye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\aaye.AssemblyInfoInputs.cache
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\aaye.AssemblyInfo.cs
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\aaye.csproj.CoreCompileInputs.cache
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\aaye.dll
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\refint\aaye.dll
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\aaye.pdb
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\aaye.genruntimeconfig.cache
+C:\Users\sevae\source\repos\aaye\aaye\obj\Debug\net6.0\ref\aaye.dll
